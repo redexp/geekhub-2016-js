@@ -11,3 +11,5 @@ GeekHub 2016 JS
 
  1. [Типы, объекты, прототипы](https://youtu.be/U-Wn194A-EY)
  2. [Функции](https://youtu.be/y6YNHyZRZo4)
+ 3. [Замыкание, область видимости](https://youtu.be/ySFYhOmIqU8)
+ 
