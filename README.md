@@ -13,4 +13,4 @@ GeekHub 2016 JS
  2. [Функции](https://youtu.be/y6YNHyZRZo4)
  3. [Замыкание, область видимости](https://youtu.be/ySFYhOmIqU8)
  4. [Конструкторы, DOM](https://youtu.be/J_1K2rsIVOI)
- 
+ 5. [jQuery](https://youtu.be/kWgLYUsYzxA)
